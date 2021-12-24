@@ -1,0 +1,7 @@
+spring:
+  redis:
+    host: 118.24.126.49
+    port: 6379
+    username:
+    password: ycs@1996515
+    database: 0
